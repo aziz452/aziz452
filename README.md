@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Mohamed Aziz Souissi</h1>
-![Dynamic Text Animation](URL_TO_YOUR_IMAGE_OR_GIF)
+![Dynamic Text Animation](https://www.facebook.com/)
 
 <h3 align="center">Passionate about math, statistics, and AI, exploring the potential of AI and data science to solve complex problems.</h3>
 
