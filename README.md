@@ -1,4 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Mohamed Aziz Souissi</h1>
+[![Dynamic Text Animation](https://img.shields.io/badge/Dynamic_Text-Click_here-blue?style=for-the-badge)](https://your-external-website-url.com)
 
 <h3 align="center">Passionate about math, statistics, and AI, exploring the potential of AI and data science to solve complex problems.</h3>
 
