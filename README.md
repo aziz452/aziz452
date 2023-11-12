@@ -32,6 +32,10 @@
 
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz452&show_icons=true&locale=en&layout=compact" alt="aziz452" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aziz452&show_icons=true&locale=en" alt="aziz452" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz452&" alt="aziz452" /></p>
 
 ###
