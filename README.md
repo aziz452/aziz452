@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm Mohamed Aziz Souissi</h1>
-![Dynamic Text Animation](https://www.facebook.com/)
 
 <h3 align="center">Passionate about math, statistics, and AI, exploring the potential of AI and data science to solve complex problems.</h3>
 
@@ -45,5 +44,9 @@
 🚀 **Latest Projects:**
 - [Project 1](project1_link): Short description or dynamic information.
 - [Project 2](project2_link): Short description or dynamic information.
+
+📜 **Certificates:**
+- [Certificate 1](certificate1_link): Brief description or course name.
+- [Certificate 2](certificate2_link): Brief description or course name.
 
 Let's connect and build something amazing! 🚀
